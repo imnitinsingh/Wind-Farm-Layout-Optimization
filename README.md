@@ -1,4 +1,5 @@
 Wind Farm Layout Optimization
 
-![solution](C:\Users\Nitin.N.Singh\Desktop\GIT\Wind Farm Layout Optimization\Images\solution.gif)
+Results from Genetic Algorithm
 
+![solution](C:\Users\Nitin.N.Singh\Desktop\GIT\Wind Farm Layout Optimization\Images\solution.gif)
