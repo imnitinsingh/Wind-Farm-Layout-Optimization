@@ -1,6 +1,6 @@
 # Wind Farm Layout Optimization
 
-![offshore-wind](C:\Users\Nitin.N.Singh\Desktop\GIT\Wind Farm Layout Optimization\Images\offshore-wind.jpg)
+![offshore-wind](/Images/offshore-wind.jpg)
 
 An unoptimized or suboptimal layout of wind turbines in a wind farm can typically cost upto 10-15% of AEP (Annual Evergy Production), which will make the wind farm owner lose a large sum of money. This primarily happens due to the aggregated influence of arranged wind turbines on the wind speed and direction. This inter-turbine interference is known as wake effect.
 
@@ -14,7 +14,7 @@ Therefore, optimal layout of wind turbines in a wind farm carry huge business im
 
 Jensen model is an analytical engineering wake model derived from the law of mass-conservation. Its original purpose was to increase the efficiency of wind clusters through layout optimization to reduce wake losses.
 
-![velocity-profiles](C:\Users\Nitin.N.Singh\Desktop\GIT\Wind Farm Layout Optimization\Images\velocity-profiles.PNG)
+![velocity-profiles](/Images/velocity-profiles.PNG)
 
 ## Results from Genetic Algorithm
 
